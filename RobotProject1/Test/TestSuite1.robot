@@ -17,6 +17,8 @@ MySecondTest
 MyThirdTest
     Log    This is my 3rd test
     
+MyForthTest
+    Log    This is my 4th test
     
 FirstSeleniumTest
     [Tags]    Smoke
