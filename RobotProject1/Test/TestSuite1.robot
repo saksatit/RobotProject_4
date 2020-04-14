@@ -12,7 +12,7 @@ MyFirstTest
     Log    This is my first test    
     
 FirstSeleniumTest
-    [Tags]    SmokeTest
+    [Tags]    Smoke
     Open Browser    http://www.google.co.th    chrome
     Set Browser Implicit Wait    5
     Input Text    //input[@name='q']    saksatit 
