@@ -9,7 +9,10 @@ Default Tags    Sanity
 
 *** Test Cases ***
 MyFirstTest
-    Log    This is my first test    
+    Log    This is my first test   
+    
+MySecondTest
+    Log    This is my second test  
     
 FirstSeleniumTest
     [Tags]    Smoke
