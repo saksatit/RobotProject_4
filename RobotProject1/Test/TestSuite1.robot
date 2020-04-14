@@ -12,7 +12,11 @@ MyFirstTest
     Log    This is my first test   
     
 MySecondTest
-    Log    This is my second test  
+    Log    This is my 2nd test  
+    
+MyThirdTest
+    Log    This is my 3rd test
+    
     
 FirstSeleniumTest
     [Tags]    Smoke
